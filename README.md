@@ -1,0 +1,2 @@
+# coverface
+利用facenet和MTCNN实现的人脸识别并自动打码系统
